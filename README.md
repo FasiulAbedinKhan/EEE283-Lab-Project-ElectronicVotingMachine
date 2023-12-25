@@ -1,1 +1,2 @@
 # EEE283-Lab-Project-ElectronicVotingMachine
+We have developed an Electronic Voting Machine designed to tally the votes of 60 individuals. In this setup, there are six candidates vying for positions. The candidate who secures the most votes will be declared the Chairman, while the one with the second-highest votes will be appointed as the Vice Chairman. The candidate with the third-highest number of votes will assume the role of Secretary.
